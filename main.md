@@ -27,7 +27,10 @@ My main research interests are computational intelligence, metaheuristics, and h
 * [ResearchGate](https://www.researchgate.net/profile/Renzo_Massobrio)
 * [Linkedin](https://www.linkedin.com/in/renzomassobrio/)
 * [Github](https://github.com/renzomassobrio)
+* [ORCID](https://orcid.org/0000-0002-0040-3681)
+* [publons](https://publons.com/author/1337062)
 * [dblp](http://dblp.uni-trier.de/pers/hd/m/Massobrio:Renzo)
+* [Scopus](https://www.scopus.com/authid/detail.uri?authorId=56454289900)
 
 ### News
 * **Nov 2017:** Our paper entitled "Automatic program generation: Virtual Savant for the knapsack problem" was accepted at the International Workshop on Optimization and Learning: challenges and applications ([OLA 2018](https://ola2018.sciencesconf.org/resource/page/id/5)).
