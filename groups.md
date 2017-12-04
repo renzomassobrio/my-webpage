@@ -15,7 +15,7 @@ Team members: [Sergio Nesmachnow](http://www.fing.edu.uy/~sergion), [Santiago It
 
 [Group website (in spanish)](https://www.fing.edu.uy/iet/departamentos/depto-de-transporte)
 
-I work as an Assistant Professor at the Department of Transport. We are a small group of young researchers with different academic backgrounds. Our main interests include the analysis of public transport and socioeconomical data to evaluate QoS offered to citizens by the public transport system.
+I work as a teaching and research assistant at the Department of Transport. We are a small group of young researchers with different academic backgrounds. Our main interests include the analysis of public transport and socioeconomical data to evaluate QoS offered to citizens by the public transport system.
 
 Team members: Matías Gutiérrez, Juan Pablo González
 
