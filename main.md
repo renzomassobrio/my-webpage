@@ -1,6 +1,6 @@
 ### Short bio
 <img align="right" src=img/profile_rounded.png hspace="10" alt="profile picture" width="180" height="180">
-I am an Assistant Professor at the Faculty of Engineering, Universidad de la República, Uruguay since 2014. I hold a degree in Engineering in Computer Science from Universidad de la República (Uruguay). I am a M.Sc. candidate in Computer Science at Universidad de la República (Uruguay) and a Ph.D. candidate in Computer Science at Universidad de Cádiz (Spain). I hold Ph.D. grants from the National Agency of Research and Innovation (ANII, Uruguay) and Fundación Carolina (Spain). 
+I am a teaching and research assistant at the Faculty of Engineering, Universidad de la República, Uruguay since 2014. I hold a degree in Engineering in Computer Science from Universidad de la República (Uruguay). I am a M.Sc. candidate in Computer Science at Universidad de la República (Uruguay) and a Ph.D. candidate in Computer Science at Universidad de Cádiz (Spain). I hold Ph.D. grants from the National Agency of Research and Innovation (ANII, Uruguay) and Fundación Carolina (Spain). 
 
 My main research interests are computational intelligence, metaheuristics, and high-performance computing applied to solving complex optimization problems. Currently, I am focusing on addressing urban mobility and public transport problems.
 
