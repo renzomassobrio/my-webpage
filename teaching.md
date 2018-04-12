@@ -30,8 +30,6 @@ I am currently supervising or have supervised the following students.
 
 * **(April 2016- April 2018) "Computational intelligence applied to urban transport optimization problems".** Final thesis, Computer Science Engineering, Faculty of Engineering, Universidad de la República. *Student: Enzo Fabbiani.*
 
-* **(July 2017- December 2017) "Artificial intelligence for modelling pollution measures from an unmanned aerial vehicle".** Research Stay, Faculty of Engineering, Universidad de la República. *Student: Jesús Gabriel Martínez (Instituto Tecnológico de Nuevo León, México).*
-
   [Project website](https://www.fing.edu.uy/inco/grupos/cecal/hpc/IOTU)
 
-
+* **(July 2017- December 2017) "Artificial intelligence for modelling pollution measures from an unmanned aerial vehicle".** Research Stay, Faculty of Engineering, Universidad de la República. *Student: Jesús Gabriel Martínez (Instituto Tecnológico de Nuevo León, México).*
