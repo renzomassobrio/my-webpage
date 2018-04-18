@@ -20,7 +20,7 @@ My main research interests are computational intelligence, metaheuristics, and h
 ### Contact details
 
 #### E-mail
-* renzom@fing.edu.uy
+* [renzom@fing.edu.uy](mailto:renzom@fing.edu.uy)
 
 #### Profiles
 * [Google Scholar](https://scholar.google.com/citations?user=QE-Y_58AAAAJ)
