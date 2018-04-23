@@ -8,7 +8,7 @@ My main research interests are computational intelligence, metaheuristics, and h
 ---
 
 <p style="text-align: center;">
-**You can download my full CV [in spanish](http://www.fing.edu.uy/~renzom/CV/CV_es.pdf) and [in english](http://www.fing.edu.uy/~renzom/CV/CV_en.pdf)** *(updated: 2018-04-12).*
+**You can download my full CV [in spanish](http://www.fing.edu.uy/~renzom/CV/CV_es.pdf) and [in english](http://www.fing.edu.uy/~renzom/CV/CV_en.pdf)** *(updated: 2018-04-18).*
 </p>
 
 <p style="text-align: center;">
