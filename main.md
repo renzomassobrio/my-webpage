@@ -36,6 +36,5 @@ My main research interests are computational intelligence, metaheuristics, and h
 * **Apr 2018:** I delivered a short presentation to the UCASE research group at Universidad de Cádiz on "Virtual Savant: automatic program generation" ([slides (in spanish)](http://www.fing.edu.uy/~renzom/uploads/ucase_2018.pdf)).
 * **Mar 2018:** Our paper "Towards a Cloud Computing Paradigm for Big Data Analysis in Smart Cities" has been accepted in Programming and Computer Software, Pleaiades Publishing, Ltd. (JCR, Q4).
 * **Feb 2018:** I presented our work "Automatic program generation: Virtual Savant for the knapsack problem" at the International Workshop on Optimization and Learning in Alicante, Spain ([slides](http://www.fing.edu.uy/~renzom/uploads/slides_ola_2018.pdf)).
-* **Dic 2017:** Our paper "A distributed platform for big data analysis in smart cities: combining Intelligent Transportation Systems and socioeconomic data for Montevideo, Uruguay" has been published in EAI Endorsed Transactions on Smart Cities ([link](http://eudl.eu/doi/10.4108/eai.19-12-2017.153478)).
-* **Nov 2017:** Our paper entitled "Automatic program generation: Virtual Savant for the knapsack problem" was accepted at the International Workshop on Optimization and Learning: challenges and applications ([OLA 2018](https://ola2018.sciencesconf.org/resource/page/id/5)).
-* **Nov 2017:** We delivered a short postgraduate course entitled "Foundations of Urban Informatics: data analysis and processing". [Course webpage (in spanish)](https://eva.fing.edu.uy/course/view.php?id=1108)
+
+[News archive](news.md)
