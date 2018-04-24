@@ -8,7 +8,7 @@ My main research interests are computational intelligence, metaheuristics, and h
 ---
 
 <p style="text-align: center;">
-**You can download my full CV [in spanish](http://www.fing.edu.uy/~renzom/CV/CV_es.pdf) and [in english](http://www.fing.edu.uy/~renzom/CV/CV_en.pdf)** *(updated: 2018-04-18).*
+**You can download my full CV [in spanish](http://www.fing.edu.uy/~renzom/CV/CV_es.pdf) and [in english](http://www.fing.edu.uy/~renzom/CV/CV_en.pdf)** *(updated: 2018-04-24).*
 </p>
 
 <p style="text-align: center;">
@@ -33,6 +33,7 @@ My main research interests are computational intelligence, metaheuristics, and h
 * [Scopus](https://www.scopus.com/authid/detail.uri?authorId=56454289900)
 
 ### News
+* **Apr 2018:** Our paper "Single and multiobjective evolutionary algorithms for clustering biomedical information with unknown number of clusters" was accepted at the [ 8th International Conference on Bioinspired Optimization Methods and their Applications](https://bioma2018.sciencesconf.org/). You can find the manuscript [here](http://www.fing.edu.uy/~renzom/full-texts/InP/Curi2018a.pdf).
 * **Apr 2018:** I delivered a short presentation to the UCASE research group at Universidad de Cádiz on "Virtual Savant: automatic program generation" ([slides (in spanish)](http://www.fing.edu.uy/~renzom/uploads/ucase_2018.pdf)).
 * **Mar 2018:** Our paper "Towards a Cloud Computing Paradigm for Big Data Analysis in Smart Cities" has been accepted in Programming and Computer Software, Pleaiades Publishing, Ltd. (JCR, Q4).
 * **Feb 2018:** I presented our work "Automatic program generation: Virtual Savant for the knapsack problem" at the International Workshop on Optimization and Learning in Alicante, Spain ([slides](http://www.fing.edu.uy/~renzom/uploads/slides_ola_2018.pdf)).
