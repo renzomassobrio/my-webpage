@@ -8,7 +8,7 @@ My main research interests are computational intelligence, metaheuristics, and h
 ---
 
 <p style="text-align: center;">
-**You can download my full CV [in spanish](http://www.fing.edu.uy/~renzom/CV/CV_es.pdf) and [in english](http://www.fing.edu.uy/~renzom/CV/CV_en.pdf)** *(updated: 2018-05-06).*
+**You can download my full CV [in spanish](http://www.fing.edu.uy/~renzom/CV/CV_es.pdf) and [in english](http://www.fing.edu.uy/~renzom/CV/CV_en.pdf)** *(updated: 2018-05-13).*
 </p>
 
 <p style="text-align: center;">
@@ -21,6 +21,11 @@ My main research interests are computational intelligence, metaheuristics, and h
 
 #### E-mail
 * [renzom@fing.edu.uy](mailto:renzom@fing.edu.uy)
+
+#### Institutional address
+Facultad de Ingeniería, Universidad de la República   
+Julio Herrera y Reissig, 565   
+Montevideo, Uruguay, 11300
 
 #### Profiles
 * [Google Scholar](https://scholar.google.com/citations?user=QE-Y_58AAAAJ)
